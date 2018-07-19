@@ -14,22 +14,22 @@ I don't expect to be able to produce a fully fleshed-out site over the next 8 we
 but instead want to focus on 4 key features.
 
 ### Features
-Order form: I want to work towards having the option to order season-passes online.
-Calendar: A built-in Google Calendar with the operation hours listed.
-Database: A searchable database of the types of animals in the zoo and information about each one.
-Search bar: Lastly, I will implement a search bar and make the site fully searchable.
+1. Order form: I want to work towards having the option to order season-passes online.
+1. Calendar: A built-in Google Calendar with the operation hours listed.
+1. Database: A searchable database of the types of animals in the zoo and information about each one.
+1. Search bar: Lastly, I will implement a search bar and make the site fully searchable.
 
 ### Technologies
-C#
-ASP.Net
-HTML/CSS
-Bootstrap 4
-Javascript
+* C#
+* ASP.Net
+* HTML/CSS
+* Bootstrap 4
+* Javascript
 
 
 ### What I'll Have to Learn
-Search capabilities
-Setting up purchase capabilities
-Learn and implement Javascript
+* Search capabilities
+* Setting up purchase capabilities
+* Learn and implement Javascript
 
-https://trello.com/b/Xb0C3z4h/zoo-board
+[My Trello Board](https://trello.com/b/Xb0C3z4h/zoo-board)
