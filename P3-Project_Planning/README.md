@@ -9,9 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-![Image of ZooWireframe pg1](Desktop/liftoff-assignments/P3-Project_Planning/ZooWireframe.jpg)
-![Image of ZooWireframe pg2](Desktop/liftoff-assignments/P3-Project_Planning/Tickets.jpg)
-![Image of ZooWireframe pg3](Desktop/liftoff-assignments/P3-Project_Planning/ContactFooter.jpg)
+![Image of ZooWireframe pg1](https://github.com/JessicaNations/liftoff-assignments/blob/master/P3-Project_Planning/ZooWireframe.jpg)
+![Image of ZooWireframe pg2](https://github.com/JessicaNations/liftoff-assignments/blob/master/P3-Project_Planning/Tickets.jpg)
+![Image of ZooWireframe pg3](https://github.com/JessicaNations/liftoff-assignments/blob/master/P3-Project_Planning/ContactFooter.jpg)
 
 ### Project Tracker
 
