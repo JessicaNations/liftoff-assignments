@@ -17,3 +17,6 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 [My Trello Board](https://trello.com/b/Xb0C3z4h/zoo-board)
+
+### Repository
+[Link to my Repository](https://github.com/JessicaNations/BigJoelSafari)
