@@ -16,4 +16,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 
 ### Resume
 
-![Image of my Resume](https://github.com/JessicaNations/liftoff-assignments/blob/master/C1-Online_Profiles/2018RESUME.docx.pdf)
+![Image of my Resume](https://github.com/JessicaNations/liftoff-assignments/blob/master/C1-Online_Profiles/jn.pdf)
