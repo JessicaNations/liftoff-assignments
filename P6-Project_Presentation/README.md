@@ -8,6 +8,6 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 <object>
-    <embed><p>Please download the PDF to view it: <a href="https://github.com/JessicaNations/liftoff-assignments/blob/master/P6-Project_Presentation/Presentation.pdf">Download PDF</a></p>
+    <embed><p>Please click here to view the PDF: <a href="https://github.com/JessicaNations/liftoff-assignments/blob/master/P6-Project_Presentation/Presentation.pdf">Presentation PDF</a></p>
     </embed>
 </object>
