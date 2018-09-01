@@ -7,4 +7,7 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+U<object>
+    <embed><p>Please download the PDF to view it: <a href="https://github.com/JessicaNations/liftoff-assignments/blob/master/P6-Project_Presentation/presentation.pdf">Download PDF</a></p>
+    </embed>
+</object>
